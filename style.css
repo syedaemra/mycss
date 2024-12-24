@@ -1,0 +1,35 @@
+
+*{
+    
+color: blue;
+}
+h1{
+    color: blueviolet;
+    background-color: gold;
+}
+
+h2{
+    color: lightgreen;
+    background-color: greenyellow;
+    */
+    /* }  */
+
+h3{
+    color: plum;
+    
+}
+.p1{
+    color: yellowgreen;
+    background-color: crimson;
+}
+.p2{
+    color: deeppink;
+    background-color: rgb(235, 168, 141);
+}
+
+
+
+    #container .h1 p  .links{
+        color: white;
+        background-color: green;
+    }    
